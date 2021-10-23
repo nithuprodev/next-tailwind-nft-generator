@@ -21,7 +21,7 @@ class MyDocument extends Document {
         <body style={{overflow:"hidden"}}>
           <Main />
           <NextScript />
-              <script src="/assets/js/vendor/core.min.js"></script>
+          <script src="/assets/js/vendor/core.min.js"></script>
         
           <script src="/assets/js/vendor/popper.min.js"></script>
           <script src="/assets/js/vendor/bootstrap.min.js"></script>
