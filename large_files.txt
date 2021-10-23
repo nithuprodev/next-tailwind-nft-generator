@@ -1,8 +1,4 @@
-68095387 img/output.rar
-66570220 img/output.7z
-11021021 img/Fire (Bright).PNG
 8687142 artifacts/build-info/464d5ce9369270f3bc95b2e57fca4cc2.json
 5626961 artifacts/build-info/2b346641ac0f73ae7d2df03a7549ce99.json
-3439785 img/Mystique.PNG
 3044022 artifacts/build-info/c45eb2e47f25ea8a4fac493c803183fc.json
 1195450 public/assets/js/vendor/all.min.js
