@@ -1,6 +1,6 @@
 var images = require("images");
 var fs = require('fs');
-const resizeImg = require('resize-img');
+// const resizeImg = require('resize-img');
 import { total_count } from "../../config";
 
 
