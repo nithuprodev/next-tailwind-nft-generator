@@ -29,6 +29,7 @@ async function main() {
   export const nftmarketaddress = "${nftMarket.address}"
   export const nftaddress = "${nft.address}"
   export const rpc_url = "https://data-seed-prebsc-1-s1.binance.org:8545"
+  export const total_count = 666
   `
 
   let data = JSON.stringify(config)
