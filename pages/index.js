@@ -35,7 +35,7 @@ export default function Main(props) {
         setInterval(() => {
             var ii = Math.floor(Math.random() * 10);
             setImg(ii.toString());
-        }, 200);
+        }, 1000);
     }, [])
 
     async function getMintCount() {
